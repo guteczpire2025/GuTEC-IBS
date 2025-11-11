@@ -3,4 +3,4 @@ We have noticed so many patients resorting to so much unsupervised self-diagnosi
 
 Here is the link to our landing page.
 
-https://691062b3b56aa.site123.me/
+https://guteczpire2025.github.io/GuTEC-IBS/
