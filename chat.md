@@ -76,7 +76,7 @@ Some groundbreaking thoughts:
   This sped up our design cycle and helped us test and refine multiple ideas more efficiently than traditional research alone, making it especially helpful for avid software learners like ourselves.
 - With AI’s help, we crafted bite-sized lessons that balance scientific rigor and cultural sensitivity,
 allowing users to easily toggle between Western and TCM explanations. This ensured our educational content was both accessible and inclusive.
-- AI’s input consistently reminded us to design with empathy—choosing color schemes, language, and layouts that reduce anxiety and foster trust for users managing a sensitive condition. This helps us prevent our app
+- AI’s input consistently reminded us to design with empathy - choosing color schemes, language, and layouts that reduce anxiety and foster trust for users managing a sensitive condition. This helps us prevent our app
 design from being filled with an excessive amount of academic or technical rigor that may potentially put our users off when they are exploring the "Education" function of our app. None of our clips will last more than 10 minutes,
 ensuring our viewers can both enjoy more, learn effectively and inspiring them to build a friendly relationship with their own gut - which is our biggest dream come true.
 - AI suggested the use of animated, empathetic characters to bridge the gap between medical content and user comfort, transforming our app from a standard tracker into an engaging, supportive companion.
